@@ -18,19 +18,19 @@ Sempre curioso, vejo os desafios como uma forma de lapidar minhas habilidades �
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- **Desenvolvimento Web**: HTML, CSS, JavaScript, ReactJS
-- **Back-end e Full Stack**: Ruby on Rails (stack favorita), Python, NodeJS
+- **Desenvolvimento Web**: HTML, CSS, TypeScript, ReactJS
+- **IA**: Python
 - **Programação Competitiva**: C++
 - **Controle de versão**: Git & GitHub
 
 ### 📘 Estudando agora
-- Integração entre **Ruby on Rails** e **React**
+- ReactJS e adaptação para NextJS
 - Fundamentos de **Inteligência Artificial**
 
 ---
