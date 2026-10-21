@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="190" viewBox="0 0 520 190" fill="none" role="img" aria-labelledby="aura-title aura-desc">
+  <title id="aura-title">AURA: Conversational AI assistant (previous project)</title>
+  <desc id="aura-desc">Project card for AURA, an earlier conversational assistant experiment built with Python and Streamlit on top of the Gemini API. Category: Previous Project / Generative AI.</desc>
+
+  <defs>
+    <clipPath id="aura-panel-clip">
+      <rect x="344" y="20" width="152" height="92" rx="6"/>
+    </clipPath>
+  </defs>
+
+  <!-- Card -->
+  <rect x="0.5" y="0.5" width="519" height="189" rx="10" fill="#0D1117" stroke="#30363D"/>
+
+  <!-- Eyebrow -->
+  <text x="24" y="36" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1.6" fill="#8B949E">PROJECT / <tspan fill="#B6F09C">03</tspan></text>
+
+  <!-- Title -->
+  <text x="23" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="0.6" fill="#F0F6FC">AURA</text>
+
+  <!-- Description -->
+  <text x="24" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#8B949E">Conversational AI assistant</text>
+
+  <!-- Dialogue motif panel -->
+  <rect x="344" y="20" width="152" height="92" rx="6" fill="#A9B8D0" fill-opacity="0.035"/>
+  <g clip-path="url(#aura-panel-clip)">
+    <path d="M363 20V112M382 20V112M401 20V112M420 20V112M439 20V112M458 20V112M477 20V112M344 39H496M344 58H496M344 77H496M344 96H496" stroke="#F0F6FC" stroke-opacity="0.035"/>
+  </g>
+  <rect x="344.5" y="20.5" width="151" height="91" rx="5.5" stroke="#30363D"/>
+
+  <!-- User message -->
+  <rect x="420.5" y="31.5" width="61" height="14" rx="4" fill="#F0F6FC" fill-opacity="0.04" stroke="#30363D"/>
+  <path d="M428 38.5H474" stroke="#8B949E" stroke-opacity="0.65" stroke-linecap="round"/>
+
+  <!-- Conversation thread -->
+  <path d="M359 70.5V88.5" stroke="#30363D"/>
+  <circle cx="359" cy="66" r="3.5" fill="#B6F09C"/>
+  <circle cx="359" cy="93" r="2.5" stroke="#B6F09C" stroke-opacity="0.55"/>
+
+  <!-- Assistant message -->
+  <rect x="370.5" y="54.5" width="84" height="24" rx="4" fill="#A9B8D0" fill-opacity="0.08" stroke="#A9B8D0" stroke-opacity="0.35"/>
+  <path d="M378 62.5H440M378 70.5H420" stroke="#A9B8D0" stroke-opacity="0.75" stroke-linecap="round"/>
+
+  <!-- Typing indicator -->
+  <rect x="370.5" y="86.5" width="30" height="13" rx="4" stroke="#30363D"/>
+  <circle cx="379" cy="93" r="1.4" fill="#B6F09C" fill-opacity="0.9"/>
+  <circle cx="385.5" cy="93" r="1.4" fill="#B6F09C" fill-opacity="0.6"/>
+  <circle cx="392" cy="93" r="1.4" fill="#B6F09C" fill-opacity="0.3"/>
+
+  <!-- Divider -->
+  <path d="M24 128.5H496" stroke="#30363D"/>
+
+  <!-- Tech stack -->
+  <text x="24" y="153" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#F0F6FC">Python<tspan fill="#8B949E"> · </tspan>Streamlit<tspan fill="#8B949E"> · </tspan>Gemini API</text>
+
+  <!-- Category -->
+  <text x="24" y="172" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" letter-spacing="1.3" fill="#8B949E">PREVIOUS PROJECT / GENERATIVE AI</text>
+
+  <!-- Link cue -->
+  <path d="M484 168L494 158M486.5 158H494V165.5" stroke="#B6F09C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
