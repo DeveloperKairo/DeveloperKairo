@@ -15,18 +15,13 @@
 
 ---
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│ KAIRO.OS  //  PERSONAL WORKSPACE                     v1.0  │
-├────────────────────────────────────────────────────────────┤
-│  USER       Kairo Kaléo                                     │
-│  ROLE       Software Developer                              │
-│  FOCUS      Full Stack Development                          │
-│  STUDIES    Análise e Desenvolvimento de Sistemas @ UFC     │
-│  INTERESTS  UX/UI · Web Engineering · Software Architecture │
-│  STATUS     Building, testing, learning.                   │
-└────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img
+    src="./kairo-os.svg"
+    width="100%"
+    alt="KAIRO.OS — Personal Workspace: perfil, foco, estudos, interesses e status"
+  />
+</p>
 
 ## `01 / ABOUT`
 
