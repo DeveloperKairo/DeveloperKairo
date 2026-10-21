@@ -1,10 +1,10 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=B6F09C&center=true&vCenter=true&width=700&lines=KAIRO.OS+%2F%2F+Developer+Profile;Frontend+%2B+UX%2FUI;Code+meets+interface+design." alt="KAIRO.OS — Developer Profile" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=B6F09C&center=true&vCenter=true&width=700&lines=KAIRO.OS+%2F%2F+Developer+Profile;Full+Stack+Development;Code+%C3%97+Design+%C3%97+Problem+Solving" alt="KAIRO.OS — Developer Profile" />
 
-**Kairo Kaléo Mesquita**
+**Kairo Mesquita**
 
-*Software Development · Front-end · UX/UI*
+*Software Development · Full Stack · UX/UI*
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-B6F09C?style=flat-square&logo=vercel&logoColor=101914)](https://kairo-mesquita.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1D2721?style=flat-square&logo=linkedin&logoColor=B6F09C)](https://www.linkedin.com/in/devkairo)
@@ -20,7 +20,8 @@
 │ KAIRO.OS  //  PERSONAL WORKSPACE                     v1.0  │
 ├────────────────────────────────────────────────────────────┤
 │  USER       Kairo Kaléo                                     │
-│  ROLE       Front-end Developer                             │
+│  ROLE       Software Developer                              │
+│  FOCUS      Full Stack Development                          │
 │  STUDIES    Análise e Desenvolvimento de Sistemas @ UFC     │
 │  INTERESTS  UX/UI · Web Engineering · Software Architecture │
 │  STATUS     Building, testing, learning.                   │
@@ -29,72 +30,83 @@
 
 ## `01 / ABOUT`
 
-Gosto de desenvolver interfaces que façam sentido tanto para quem usa quanto para quem precisa manter o código.
+Gosto de entender como as partes de um sistema se conectamm, da interface que o usuário vê à lógica e aos serviços que fazem tudo funcionar.
 
-Estudo **Análise e Desenvolvimento de Sistemas na UFC** e atuo principalmente com desenvolvimento front-end. Na ResetLab, trabalho com ferramentas voltadas ao público desenvolvedor, utilizando tecnologias web e contribuindo para soluções baseadas em problemas reais.
+Estudo **Análise e Desenvolvimento de Sistemas na UFC** e direciono minha evolução para o desenvolvimento **full stack**. Trabalho com tecnologias web no desenvolvimento de interfaces e também exploro APIs, integração entre serviços e bancos de dados para construir aplicações de ponta a ponta.
 
-Também me interesso por **UX/UI Design**: entender o usuário, organizar informações, pensar nos fluxos de navegação e transformar decisões de design em interfaces funcionais. Para mim, código e design não são etapas isoladas do produto.
+Na ResetLab, contribuo para ferramentas voltadas ao público desenvolvedor, tendo contato com desafios reais de desenvolvimento de software.
 
-Fora do front-end, gosto de explorar arquitetura de software, integração entre serviços e os fundamentos que fazem uma aplicação funcionar de ponta a ponta.
+Também tenho interesse em **UX/UI Design**. Gosto de pensar na experiência de uso, na organização das informações e nos fluxos de navegação, levando essas decisões para a implementação. Afinal, uma solução precisa funcionar tecnicamente e fazer sentido para quem a utiliza.
+
+Meu objetivo é ampliar minha visão de engenharia de software, aprofundar meus conhecimentos de back-end e construir aplicações cada vez mais completas, sem perder de vista a qualidade da interface e a experiência do usuário.
 
 ## `02 / SELECTED WORK`
 
 ### [Soular](https://kairo-mesquita.vercel.app/projeto/soular)
 
-**Uma experiência de busca de imóveis pensada para universitários.**
+**Uma plataforma de busca de imóveis pensada para universitários.**
 
-Plataforma de locação com busca geolocalizada, filtros de comodidades e comunicação entre locadores e locatários. O projeto também possui um módulo administrativo.
+Aplicação voltada à busca de moradia, com recursos de localização geográfica, filtros de comodidades e comunicação entre locadores e locatários. O projeto também conta com um módulo administrativo.
 
-`React` `TypeScript` `Tailwind CSS`
+`React` `TypeScript` `Vite` `Mapbox` `Fastify` `Supabase`
 
 [Ver projeto e detalhes →](https://kairo-mesquita.vercel.app/projeto/soular) · [Módulo administrativo →](https://kairo-mesquita.vercel.app/projeto/soular-adm)
 
-### [Bellis](https://kairo-mesquita.vercel.app/projeto/bellis)
+### [Bellis](https://bellis.vercel.app/)
 
-**Uma jornada de compra para uma perfumaria artesanal.**
+**Uma experiência de compra para uma perfumaria artesanal.**
 
-Página de captura com experiência interativa, personalização, carrinho de compras e integração de vendas via WhatsApp. Um projeto em que a experiência de compra faz parte central da implementação.
+Projeto de e-commerce com personalização, carrinho de compras e fluxo de vendas via WhatsApp. Combina desenvolvimento de interface, interatividade e construção de uma jornada de compra pensada para o usuário.
 
 `React` `TypeScript` `Tailwind CSS`
 
-[Ver projeto →](https://kairo-mesquita.vercel.app/projeto/bellis)
+[Ver projeto →](https://bellis.vercel.app/)
 
-### [AURA — Chatbot](https://kairo-mesquita.vercel.app/projeto/aura-chatbot)
+### [AURA — Chatbot](https://github.com/DeveloperKairo/Aura_ChatBot)
 
 **Um projeto anterior de experimentação com IA generativa.**
 
-Assistente conversacional desenvolvido individualmente com Python, Streamlit e a API Gemini, explorando integração com modelos de linguagem e engenharia de prompts.
+Assistente conversacional desenvolvido individualmente com Python, Streamlit e a API Gemini. Um dos meus primeiros projetos explorando integração com modelos de linguagem e construção de aplicações baseadas em IA.
 
 `Python` `Streamlit` `Gemini API`
 
-[Ver projeto e repositório →](https://kairo-mesquita.vercel.app/projeto/aura-chatbot)
+[Ver projeto e detalhes →](https://github.com/DeveloperKairo/Aura_ChatBot)
 
 <sub>Mais projetos, detalhes técnicos e demonstrações estão disponíveis no meu portfólio.</sub>
 
 ## `03 / TOOLKIT`
 
-**Front-end & interface**
+**Front-end & Web**
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark)](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark)](https://skillicons.dev)
 
-**UX/UI & prototipação**
+**Back-end & APIs**
 
-[![Design tools](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
+[![Back-end](https://skillicons.dev/icons?i=nodejs,fastify,ruby,rails,python&theme=dark)](https://skillicons.dev)
 
-**Back-end, dados & fundamentos**
+**Bancos de dados & serviços**
 
-[![Backend tools](https://skillicons.dev/icons?i=ruby,rails,python,nodejs,postgres,mysql,mongodb,supabase&theme=dark)](https://skillicons.dev)
+[![Data](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark)](https://skillicons.dev)
 
-**Workflow**
+**Design & UX/UI**
+
+[![Design](https://skillicons.dev/icons?i=figma&theme=dark)](https://www.figma.com/)
+
+**Development Workflow**
 
 [![Workflow](https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark)](https://skillicons.dev)
 
+[![Claude Code](https://img.shields.io/badge/Claude_Code-1D2721?style=flat-square&logo=claude&logoColor=D6A789)](https://claude.com/product/claude-code)
+[![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-1D2721?style=flat-square&logo=google&logoColor=B6F09C)](https://antigravity.google/)
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-1D2721?style=flat-square&logo=openai&logoColor=B6F09C)](https://openai.com/codex/)
+
 ## `04 / ENGINEERING NOTES`
 
-- **Interface com intenção:** hierarquia visual, consistência e facilidade de uso importam tanto quanto a implementação.
-- **Aprendizado na prática:** uso projetos para testar ideias, aprofundar fundamentos e entender decisões técnicas.
-- **Colaboração:** valorizo comunicação clara, organização e troca de conhecimento durante o desenvolvimento.
-- **Manutenibilidade:** prefiro código legível, componentes bem organizados e soluções que façam sentido além da primeira entrega.
+- **Visão de ponta a ponta:** gosto de entender como interfaces, APIs, serviços e bancos de dados se conectam em uma aplicação.
+- **Experiência do usuário:** considero usabilidade, hierarquia visual e consistência durante a construção de interfaces.
+- **Aprendizado aplicado:** uso projetos para experimentar tecnologias, investigar alternativas e consolidar fundamentos.
+- **Colaboração:** valorizo comunicação clara, organização e troca de conhecimento no desenvolvimento de software.
+- **Código sustentável:** busco escrever código legível, estruturar bem os projetos e considerar sua evolução futura.
 
 ## `05 / SYSTEM TELEMETRY`
 
@@ -116,6 +128,6 @@ KAIRO.OS // SESSION ACTIVE
 Still learning. Still building.
 ```
 
-**Interfaces bem pensadas. Código com propósito.**
+**Software com propósito. Experiências que fazem sentido.**
 
 </div>
