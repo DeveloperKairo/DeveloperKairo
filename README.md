@@ -112,6 +112,5 @@ KAIRO.OS // SESSION ACTIVE
 Still learning. Still building.
 ```
 
-**Software com propósito. Experiências que fazem sentido.**
 
 </div>
