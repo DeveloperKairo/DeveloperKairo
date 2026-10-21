@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" fill="none" role="img" aria-labelledby="kairo-os-panel-title kairo-os-panel-desc">
+  <title id="kairo-os-panel-title">KAIRO.OS — Personal Workspace v1.0</title>
+  <desc id="kairo-os-panel-desc">System information panel. USER: Kairo Kaléo. ROLE: Software Developer. FOCUS: Full Stack Development. STUDIES: Análise e Desenvolvimento de Sistemas @ UFC. INTERESTS: UX/UI, Web Engineering, Software Architecture. STATUS: Building, testing, learning.</desc>
+
+  <!-- Window body -->
+  <rect id="panel-body" x="0.5" y="0.5" width="999" height="269" rx="10" fill="#0D1117"/>
+
+  <!-- Title bar -->
+  <path id="panel-titlebar" d="M0.5 56V10.5A10 10 0 0 1 10.5 0.5H989.5A10 10 0 0 1 999.5 10.5V56Z" fill="#161B22"/>
+  <path d="M0.5 56.5H999.5" stroke="#30363D"/>
+
+  <!-- Title bar: identity -->
+  <rect x="28" y="23" width="10" height="10" rx="1.5" fill="#B6F09C"/>
+  <text x="50" y="35" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700" letter-spacing="1" fill="#B6F09C">KAIRO.OS</text>
+  <text x="172" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="0.5" fill="#8B949E">// PERSONAL WORKSPACE</text>
+
+  <!-- Title bar: retro stripes -->
+  <path d="M404 21.5H904M404 25.5H904M404 29.5H904M404 33.5H904" stroke="#30363D"/>
+
+  <!-- Title bar: version tag -->
+  <rect x="922.5" y="16.5" width="50" height="23" rx="4" fill="#0D1117" stroke="#30363D"/>
+  <text x="947.5" y="33" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#F0F6FC">v1.0</text>
+
+  <!-- Column divider -->
+  <path d="M176.5 74V254" stroke="#30363D"/>
+
+  <!-- Row indicators -->
+  <rect x="29.5" y="83.5" width="7" height="7" rx="1" stroke="#30363D"/>
+  <rect x="29.5" y="113.5" width="7" height="7" rx="1" stroke="#30363D"/>
+  <rect x="29.5" y="143.5" width="7" height="7" rx="1" stroke="#30363D"/>
+  <rect x="29.5" y="173.5" width="7" height="7" rx="1" stroke="#30363D"/>
+  <rect x="29.5" y="203.5" width="7" height="7" rx="1" stroke="#30363D"/>
+  <circle cx="33" cy="237" r="4.5" fill="#B6F09C"/>
+
+  <!-- Labels -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="1.5" fill="#8B949E">
+    <text x="52" y="93">USER</text>
+    <text x="52" y="123">ROLE</text>
+    <text x="52" y="153">FOCUS</text>
+    <text x="52" y="183">STUDIES</text>
+    <text x="52" y="213">INTERESTS</text>
+    <text x="52" y="243" fill="#B6F09C">STATUS</text>
+  </g>
+
+  <!-- Values -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#F0F6FC">
+    <text x="196" y="94" font-weight="600">Kairo Kaléo</text>
+    <text x="196" y="124">Software Developer</text>
+    <text x="196" y="154">Full Stack Development</text>
+    <text x="196" y="184">Análise e Desenvolvimento de Sistemas <tspan fill="#8B949E">@</tspan> UFC</text>
+    <text x="196" y="214">UX/UI<tspan fill="#8B949E"> · </tspan>Web Engineering<tspan fill="#8B949E"> · </tspan>Software Architecture</text>
+    <text x="196" y="244">Building, testing, learning.<tspan font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-weight="700" fill="#B6F09C">_</tspan></text>
+  </g>
+
+  <!-- Scroll track -->
+  <rect x="966" y="74" width="5" height="180" rx="2.5" fill="#161B22"/>
+  <rect x="966" y="74" width="5" height="62" rx="2.5" fill="#30363D"/>
+
+  <!-- Window frame -->
+  <rect x="0.5" y="0.5" width="999" height="269" rx="10" stroke="#30363D"/>
+</svg>
