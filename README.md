@@ -42,37 +42,83 @@ Meu objetivo é ampliar minha visão de engenharia de software, aprofundar meus 
 
 ## `02 / SELECTED WORK`
 
-### [Soular](https://kairo-mesquita.vercel.app/projeto/soular)
+<div align="center">
 
-**Uma plataforma de busca de imóveis pensada para universitários.**
+<a href="https://kairo-mesquita.vercel.app/projeto/soular">
+<img src="https://img.shields.io/badge/01%20%2F%20FEATURED%20PROJECT-B6F09C?style=for-the-badge&labelColor=101914" alt="Featured Project"/>
+</a>
 
-Aplicação voltada à busca de moradia, com recursos de localização geográfica, filtros de comodidades e comunicação entre locadores e locatários. O projeto também conta com um módulo administrativo.
+</div>
 
-`React` `TypeScript` `Vite` `Mapbox` `Fastify` `Supabase`
+<table>
+<tr>
+<td width="100%">
 
-[Ver projeto e detalhes →](https://kairo-mesquita.vercel.app/projeto/soular) · [Módulo administrativo →](https://kairo-mesquita.vercel.app/projeto/soular-adm)
+<h3>Soular</h3>
 
-### [Bellis](https://bellis.vercel.app/)
+<strong>Housing platform · Full Stack</strong>
 
-**Uma experiência de compra para uma perfumaria artesanal.**
+Uma plataforma de busca de moradia para universitários, com localização geográfica, filtros de comodidades e ferramentas para conectar locadores e locatários.
 
-Projeto de e-commerce com personalização, carrinho de compras e fluxo de vendas via WhatsApp. Combina desenvolvimento de interface, interatividade e construção de uma jornada de compra pensada para o usuário.
+<br/>
 
-`React` `TypeScript` `Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=react,ts,vite,fastify,supabase&theme=dark" alt="Soular tech stack"/>
 
-[Ver projeto →](https://bellis.vercel.app/)
+<br/>
 
-### [AURA — Chatbot](https://github.com/DeveloperKairo/Aura_ChatBot)
+<a href="https://kairo-mesquita.vercel.app/projeto/soular"><strong>↗ EXPLORE PROJECT</strong></a>
+&nbsp; · &nbsp;
+<a href="https://kairo-mesquita.vercel.app/projeto/soular-adm">Admin module ↗</a>
 
-**Um projeto anterior de experimentação com IA generativa.**
+</td>
+</tr>
+<tr>
+<td width="100%">
 
-Assistente conversacional desenvolvido individualmente com Python, Streamlit e a API Gemini. Um dos meus primeiros projetos explorando integração com modelos de linguagem e construção de aplicações baseadas em IA.
+<h3>Bellis</h3>
 
-`Python` `Streamlit` `Gemini API`
+<strong>E-commerce · User Experience</strong>
 
-[Ver projeto e detalhes →](https://github.com/DeveloperKairo/Aura_ChatBot)
+Uma experiência de compra para uma perfumaria artesanal, com personalização, carrinho e integração do fluxo de vendas com WhatsApp.
 
-<sub>Mais projetos, detalhes técnicos e demonstrações estão disponíveis no meu portfólio.</sub>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind&theme=dark" alt="Bellis tech stack"/>
+
+<br/>
+
+<a href="https://bellis.vercel.app/"><strong>↗ VISIT PROJECT</strong></a>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+<h3>AURA</h3>
+
+<strong>Legacy project · Generative AI</strong>
+
+Assistente conversacional desenvolvido com Python, Streamlit e Gemini API. Um projeto anterior de experimentação com aplicações baseadas em modelos de linguagem.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="AURA tech stack"/>
+
+<br/>
+
+<a href="https://github.com/DeveloperKairo/Aura_ChatBot"><strong>↗ VIEW REPOSITORY</strong></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://kairo-mesquita.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE%20MORE%20PROJECTS-B6F09C?style=for-the-badge&logo=vercel&logoColor=101914" alt="Explore more projects"/>
+</a>
+
+</div>
 
 ## `03 / TOOLKIT`
 
