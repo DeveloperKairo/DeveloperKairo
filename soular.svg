@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="190" viewBox="0 0 520 190" fill="none" role="img" aria-labelledby="soular-title soular-desc">
+  <title id="soular-title">Soular: University housing platform</title>
+  <desc id="soular-desc">Project card for Soular, a housing-search platform for university students with geolocation, filters, property information and an administrative module. Built with React, TypeScript, Vite, Mapbox, Fastify and Supabase. Category: Full Stack / Web Engineering.</desc>
+
+  <defs>
+    <clipPath id="soular-map-clip">
+      <rect x="344" y="20" width="152" height="92" rx="6"/>
+    </clipPath>
+  </defs>
+
+  <!-- Card -->
+  <rect x="0.5" y="0.5" width="519" height="189" rx="10" fill="#0D1117" stroke="#30363D"/>
+
+  <!-- Eyebrow -->
+  <text x="24" y="36" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1.6" fill="#8B949E">PROJECT / <tspan fill="#B6F09C">01</tspan></text>
+
+  <!-- Title -->
+  <text x="23" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="-0.4" fill="#F0F6FC">Soular</text>
+
+  <!-- Description -->
+  <text x="24" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#8B949E">University housing platform</text>
+
+  <!-- Map motif -->
+  <rect x="344" y="20" width="152" height="92" rx="6" fill="#121B16"/>
+  <g clip-path="url(#soular-map-clip)">
+    <!-- Grid -->
+    <path d="M363 20V112M382 20V112M401 20V112M420 20V112M439 20V112M458 20V112M477 20V112M344 39H496M344 58H496M344 77H496M344 96H496" stroke="#F0F6FC" stroke-opacity="0.045" stroke-width="1"/>
+    <!-- Streets -->
+    <path d="M336 91L400 70L504 44" stroke="#30363D" stroke-width="3" stroke-linecap="round"/>
+    <path d="M379 12L393 120" stroke="#30363D" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M412 120Q426 96 476 92L504 90" stroke="#30363D" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Properties -->
+    <rect x="353.5" y="30.5" width="10" height="8" rx="1" stroke="#8B949E" stroke-opacity="0.4"/>
+    <rect x="356.5" y="97.5" width="9" height="8" rx="1" stroke="#8B949E" stroke-opacity="0.4"/>
+    <rect x="402.5" y="29.5" width="9" height="9" rx="1" stroke="#8B949E" stroke-opacity="0.4"/>
+    <rect x="474.5" y="27.5" width="10" height="8" rx="1" stroke="#8B949E" stroke-opacity="0.4"/>
+    <rect x="401.5" y="85.5" width="11" height="8" rx="1" stroke="#8B949E" stroke-opacity="0.4"/>
+    <rect x="477.5" y="99.5" width="10" height="8" rx="1" stroke="#8B949E" stroke-opacity="0.4"/>
+    <!-- Search radius -->
+    <circle cx="440" cy="61" r="24" fill="#B6F09C" fill-opacity="0.04" stroke="#B6F09C" stroke-opacity="0.35" stroke-dasharray="2 3"/>
+    <!-- Matching properties -->
+    <rect x="451.5" y="70.5" width="9" height="8" rx="1" fill="#B6F09C" fill-opacity="0.2" stroke="#B6F09C" stroke-opacity="0.7"/>
+    <rect x="421.5" y="66.5" width="8" height="7" rx="1" fill="#B6F09C" fill-opacity="0.12" stroke="#B6F09C" stroke-opacity="0.5"/>
+  </g>
+  <rect x="344.5" y="20.5" width="151" height="91" rx="5.5" stroke="#30363D"/>
+
+  <!-- Location marker -->
+  <ellipse cx="440" cy="61.5" rx="3.5" ry="1.2" fill="#B6F09C" fill-opacity="0.45"/>
+  <path d="M440 61C436 55.5 432 52 432 46.5A8 8 0 0 1 448 46.5C448 52 444 55.5 440 61Z" fill="#B6F09C"/>
+  <circle cx="440" cy="46.5" r="2.8" fill="#121B16"/>
+
+  <!-- Divider -->
+  <path d="M24 128.5H496" stroke="#30363D"/>
+
+  <!-- Tech stack -->
+  <text x="24" y="153" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#F0F6FC">React<tspan fill="#8B949E"> · </tspan>TypeScript<tspan fill="#8B949E"> · </tspan>Mapbox<tspan fill="#8B949E"> · </tspan>Fastify<tspan fill="#8B949E"> · </tspan>Supabase</text>
+
+  <!-- Category -->
+  <text x="24" y="172" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" letter-spacing="1.3" fill="#8B949E">FULL STACK / WEB ENGINEERING</text>
+
+  <!-- Link cue -->
+  <path d="M484 168L494 158M486.5 158H494V165.5" stroke="#B6F09C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
